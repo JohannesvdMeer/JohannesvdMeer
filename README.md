@@ -7,8 +7,8 @@
   - Building my first public mini-projects
   - Exploring AI + automation + DX
 
-  ## Proof (in progress)
-  - [hello-github](https://github.com/JohannesvdMeer/hello-github) - first public repo
+  ## Proof
+  - [hello-github](https://github.com/JohannesvdMeer/hello-github) - my first public GitHub project
   - More projects coming soon
 
   ## Connect
