@@ -1,16 +1,15 @@
-## Hi there 👋
+  # Hi, I’m Johan van der Meer
 
-<!--
-**JohannesvdMeer/JohannesvdMeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Creative AI builder. I’m learning by building small useful projects in public.
 
-Here are some ideas to get you started:
+  ## Now
+  - Learning GitHub basics and workflow
+  - Building my first public mini-projects
+  - Exploring AI + automation + DX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Proof (in progress)
+  - [hello-github](https://github.com/JohannesvdMeer/hello-github) - first public repo
+  - More projects coming soon
+
+  ## Connect
+  - X: [@Johan_vd_Meer](https://x.com/Johan_vd_Meer)
