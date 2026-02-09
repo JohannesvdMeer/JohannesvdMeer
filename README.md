@@ -2,7 +2,7 @@
 
 Creative AI builder, learning by building small, useful projects in public.
 
-Former member and veteran of the **[Royal Netherlands Marine Corps (Korps Mariniers)](https://en.wikipedia.org/wiki/Royal_Netherlands_Marine_Corps)**.  
+**Former Marine** | [Korps Mariniers](https://www.defensie.nl/organisatie/marine/korps-mariniers) ([About](https://en.wikipedia.org/wiki/Royal_Netherlands_Marine_Corps)) 🇳🇱  
 That experience shaped how I work today: **disciplined iteration and finishing what I start**.
 
 ---
