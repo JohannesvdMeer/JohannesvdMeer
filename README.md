@@ -13,10 +13,12 @@ Deployed overseas. Bringing the same disciplined iteration and mission focus to 
 - Exploring AI-assisted automation and developer experience (DX)
 
 ## Skills (learning)
-- Documentation & clarity-first writing: **Markdown**, README structure, **Mermaid** diagrams
-- AI-assisted development workflows: **Claude Code**, **OpenAI Codex**, **Gemini CLI** (iterative planning + command execution)
 - Prompt design, workflow thinking, and cross-verification of model outputs
-- Systems & terminal (basic usage): **Windows 11**, **WSL2 (Ubuntu)**, **PowerShell 7+**
+- Documentation & clarity-first writing: **Markdown**, README structure, **Mermaid** diagrams
+- AI-assisted workflows (web): **Claude**, **ChatGPT**, **Gemini** (planning, analysis, cross-checking)
+- AI-assisted workflows (CLI): **Claude Code**, **Codex**, **Gemini CLI** (guided terminal workflows and command execution)
+- Also testing: **Grok**, **DeepSeek**, and other models for comparison
+- Systems & terminal (basic usage): **Windows 11**, **PowerShell 7+**, **WSL2 (Ubuntu)**
 - Editor: **VS Code** (environment set up; learning daily use)
 
 ## Proof
